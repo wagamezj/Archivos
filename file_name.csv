@@ -1,0 +1,6 @@
+Fecha,browserFamily,browserType,city,country,duration,endTime,osFamily,osVersion,region,startTime,PasoMax,Canales,NumCanales,Placa_Id,Exito,TipoVeh_Carro,TipoVeh_Moto,alkosto,exito,bancolombia,sura,bancodeoccidente,clickam,alkomprar,carulla,sufi,colsubsidio,tuya,empleadossura,flypass,euro
+2018-06-06 00:00:00,Firefox,Desktop Browser,Pitalito,Colombia,566,2018-06-06 00:53:00,Windows,Windows 10,Departamento del Huila,2018-06-06 00:43:00,Datos,exito,1,2269,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2018-06-06 00:00:00,Chrome Mobile,Mobile Browser,MedellÃ­n,Colombia,222,2018-06-06 00:58:00,Android,Android 9.0 Pie,Antioquia,2018-06-06 00:55:00,Datos,"bancodeoccidente,exito",2,2281,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+2018-06-06 00:00:00,Chrome Mobile,Mobile Browser,MonterÃ­a,Colombia,206,2018-06-06 01:40:00,Android,Android 9.0 Pie,Departamento de Cordoba,2018-06-06 01:36:00,Datos,exito,1,2367,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2018-06-06 00:00:00,Chrome,Desktop Browser,Galeras,Colombia,122,2018-06-06 01:05:00,Windows,Windows 10,Departamento de Sucre,2018-06-06 01:03:00,Datos,sura,1,3519,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2018-06-06 00:00:00,Chrome,Desktop Browser,Copacabana,Colombia,335,2018-06-06 01:17:00,Windows,Windows 10,Antioquia,2018-06-06 01:11:00,Pagos Exitosos,bancolombia,1,4564,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
